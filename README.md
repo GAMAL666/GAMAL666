@@ -1,3 +1,5 @@
+![Gamal Essam GitHub Banner](./path-to-your-image/A_digital_graphic_design_banner_features_Gamal_Ess.png)
+
 # 👋 Hello! I'm Gamal Essam
 
 [![Status](https://img.shields.io/badge/Student-Computer%20Science-blue)]()  
