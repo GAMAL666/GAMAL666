@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Gamal Essam GitHub Banner" width="80%" />
+<img src="[assets/banner.png](https://github.com/GAMAL666/GAMAL666/issues/1#issue-3130054341)" alt="Gamal Essam GitHub Banner" width="80%" />
 
 # 👋 Hello! I'm Gamal Essam
 
