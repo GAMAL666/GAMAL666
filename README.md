@@ -1,4 +1,4 @@
-![Gamal Essam GitHub Banner]([[./path-to-your-image/A_digital_graphic_design_banner_features_Gamal_Ess.png](https://chatgpt.com/s/m_6846c81e1a04819194aa26e99f5f5093)](https://github.com/GAMAL666/GAMAL666/issues/1))
+![Gamal Essam GitHub Banner]((https://github.com/GAMAL666/GAMAL666/issues/1))
 
 # 👋 Hello! I'm Gamal Essam
 
