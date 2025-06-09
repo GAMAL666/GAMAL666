@@ -1,4 +1,4 @@
-![Gamal Essam GitHub Banner]((https://github.com/GAMAL666/GAMAL666/issues/1))
+![Gamal Essam GitHub Banner](https://github.com/GAMAL666/GAMAL666/issues/1)
 
 # 👋 Hello! I'm Gamal Essam
 
