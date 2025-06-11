@@ -1,6 +1,7 @@
 <img src="[assets/banner.png](https://github.com/GAMAL666/GAMAL666/issues/1#issue-3130054341)" alt="Gamal Essam GitHub Banner" width="80%" />
 
 # 👋 Hello! I'm Gamal Essam
+![Uploading ChatGPT Image Jun 9, 2025, 02_34_55 PM.png…]()
 
 [![Status](https://img.shields.io/badge/Student-Computer%20Science-blue)]()  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/your-username)  
