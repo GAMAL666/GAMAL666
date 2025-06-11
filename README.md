@@ -1,4 +1,4 @@
-<img src="https://github.com/GAMAL666/assets/blob/main/GAMAL.png" alt="Gamal Essam GitHub Banner" width="80%" />
+<img src="https://github.com/GAMAL666/assets/blob/main/GAMAL.png" alt="Gamal Essam GitHub Banner" width="100%" />
 
 # 👋 Hello! I'm Gamal Essam
 
