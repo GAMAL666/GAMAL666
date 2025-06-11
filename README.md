@@ -1,7 +1,7 @@
-<img src="[assets/banner.png](https://github.com/GAMAL666/GAMAL666/issues/1#issue-3130054341)" alt="Gamal Essam GitHub Banner" width="80%" />
+<img src="(https://github.com/GAMAL666/GAMAL666/issues/1#issue-3130054341)](https://private-user-images.githubusercontent.com/86128119/452991458-6daca3e2-8319-4a45-8640-4957b96cc14e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk2NjA5NTcsIm5iZiI6MTc0OTY2MDY1NywicGF0aCI6Ii84NjEyODExOS80NTI5OTE0NTgtNmRhY2EzZTItODMxOS00YTQ1LTg2NDAtNDk1N2I5NmNjMTRlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjExVDE2NTA1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI4MzY4YTNkMWUzNDU0MjIwMWJjZGQ1YjM5YzZiY2FmZWE3MjkwZjNjNjNiZWEwODdkYmQ3NGQwMTMyM2NkZjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pZJ8nyz6DQUXM5j-C-eSAKJ9pdyjCTX04TmBmuPREsA" alt="Gamal Essam GitHub Banner" width="80%" />
 
 # 👋 Hello! I'm Gamal Essam
-![Uploading ChatGPT Image Jun 9, 2025, 02_34_55 PM.png…]()
+
 
 [![Status](https://img.shields.io/badge/Student-Computer%20Science-blue)]()  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/your-username)  
