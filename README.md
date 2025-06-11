@@ -1,4 +1,4 @@
-<img src="https://github.com/GAMAL666/assets/blob/main/ChatGPT%20Image%20Jun%209%2C%202025%2C%2002_34_55%20PM.png" alt="Gamal Essam GitHub Banner" width="80%" />
+<img src="https://github.com/GAMAL666/assets/blob/main/GAMAL.png" alt="Gamal Essam GitHub Banner" width="80%" />
 
 # 👋 Hello! I'm Gamal Essam
 
